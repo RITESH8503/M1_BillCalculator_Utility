@@ -21,3 +21,4 @@
   *for farmers
 
   SWOT analysis:
+  1. STRENGTH
