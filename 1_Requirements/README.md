@@ -22,3 +22,4 @@
 
   SWOT analysis:
   1. STRENGTH
+    * Innovative, User-friendly, Simple
