@@ -21,4 +21,19 @@
   *for farmers
 
   SWOT analysis:
-  1. STRENGTH
+  1. STRENGTH * Innovative, User-friendly, Simple
+  2  Weakness: Cost of calculator increases as features added in the calculator increase.
+
+  3Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+
+Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+
+4’W and 1’H
+
+What: Electricity bill calculator**
+
+Where: School, Science, domestic, industries, Technology
+
+When: Need for calculation.
+
+How: Calculates the user input as number of loads and gives the output.
