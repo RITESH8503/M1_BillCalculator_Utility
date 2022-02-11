@@ -59,7 +59,7 @@ void Urban()
 
 void Rural()
 {
-    int amount=0,total_Unit;
+    int amount=0;
     B.unit;
     if(B.unit <=50 && B.unit >= 0)
     {
@@ -108,4 +108,5 @@ void Farmers()
     printf("In Urban, your electricity bill is: %d\n", amount);
     printf("Units you consumed per month: %d\n", B.unit);
     printf("customer CONTACT: %d\n", B.contact);
+    
 }
