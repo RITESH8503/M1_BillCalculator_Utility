@@ -31,7 +31,7 @@ void data()
 
 void Urban()
 {
-    int amount=0,total_Unit;
+    int amount=0;
     B.unit;
     if(B.unit <=30 && B.unit >= 0)
     {
@@ -91,7 +91,7 @@ void Industrial()
 {
     int amount=0;
     B.unit;
-    amount= B.unit*7.75 // fixed rate
+    amount= B.unit*7.75;// fixed rate
     printf("****Electricity Bill   TYPE= industrial ****\n\n");
     printf("Name : %s\n", B.name);
     printf("In Urban, your electricity bill is: %d\n", amount);
@@ -102,7 +102,7 @@ void Farmers()
 {
     int amount=0;
     B.unit;
-    amount= B.unit*3+15 // fixed rate , rs 15 fixed charge
+    amount= B.unit*3+15; // fixed rate , rs 15 fixed charge
     printf("****Electricity Bill   TYPE= SUBSIDED FARMER ****\n\n");
     printf("Name : %s\n", B.name);
     printf("In Urban, your electricity bill is: %d\n", amount);
