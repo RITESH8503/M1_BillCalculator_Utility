@@ -11,20 +11,21 @@
 
 
 #include "billing.h"
+#include<stdio.h>
 
 
 void data()
 {
     
 	printf("Enter your  name:\n");
-	scanf("%s", B.name);
+	scanf("%c", B.name);
 	printf("Enter your consumer number:\n");
-	scanf("%d", &B.consumer_number);
+	scanf("%ld", &B.consumer_number);
     printf("Enter units consumed:\n");
 	scanf("%d", &B.unit);
     
     printf("Enter the contact number : \n");
-    scanf("%s", B.contact);
+    scanf("%ld", B.contact);
     
 }
 

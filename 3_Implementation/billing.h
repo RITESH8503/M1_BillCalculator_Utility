@@ -13,22 +13,22 @@
 #define __BILLING_H__
 
 //EXISTING HEADER
-#include <stdio.h>
-#include <stdlib.h>
+
+/*#include <stdio.h>
 #include <conio.h>
 #include <string.h>
-
+*/
 
 //structure declaration
 struct Bill_Calculator
 {
 	
 	char name[15];
-	int consumer_number;
+	long int consumer_number;
     int unit;
-	int contact [10];
+	 long int contact [10];
     
-};
+}B;
 
 
 void data();
