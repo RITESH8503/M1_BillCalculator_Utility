@@ -16,9 +16,8 @@
   #In addition, high-end electricity bill calculators generally include:
   * Urban
   * Rural
-  *Commercial
-  *industrial
-  *for farmers
+  * industrial
+  * for farmers
 
   SWOT analysis:
 
@@ -26,9 +25,9 @@
     * Innovative, User-friendly, Simple
 =======
   1. STRENGTH * Innovative, User-friendly, Simple
-  2  Weakness: Cost of calculator increases as features added in the calculator increase.
+  2  Weakness: Cost of calculator increases as features added in the calculator increase.,
 
-  3Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+  3  Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
 Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
@@ -36,7 +35,7 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 What: Electricity bill calculator**
 
-Where: School, Science, domestic, industries, Technology
+Where: School, Science, domestic, industries, Technology,villages
 
 When: Need for calculation.
 
@@ -44,19 +43,22 @@ How: Calculates the user input as number of loads and gives the output.
 High Level Requirements:
 
 ID	Description	Status
-HL01	Electricity bill calculation at Urban areas if(units<30)	Implemented
+HL01	Electricity bill calculation at Urban areas if(units<30)	              Implemented
 HL02	Electricity bill calculation at Urban areas if(units>30 && units <100)	Implemented
 HL03	Electricity bill calculation at Urban areas if(units>101 && units <200)	Implemented
-HL04	Electricity bill calculation at Urban areas if(units<200)	Implemented
-HL05	Electricity bill calculation at Rural areas if(units<30)	Implemented
+HL04	Electricity bill calculation at Urban areas if(units<200)	              Implemented
+HL05	Electricity bill calculation at Rural areas if(units<30)	               Implemented
 HL06	Electricity bill calculation at Rural areas if(units>30 && units <100)	Implemented
 HL07	Electricity bill calculation at Rural areas if(units>101 && units <200)	Implemented
-HL08	Electricity bill calculation at Rural areas if(units<200)	Implemented
+HL08	Electricity bill calculation at Rural areas if(units<200)              	Implemented
+HL08	Electricity bill calculation at industrial  areas .fixed price          Implemented
+HL09	Electricity bill calculation at Rural areas if(units>101 && units <200)	Implemented
+HL10	Electricity bill calculation at farmers subsided rate fixed price       Implemented   
 Low level Requirements:
 
 ID	Description	Status
 LL01_HL01	Calculates electricity bill at rural areas	Implemented
 LL02_HL02	Calculates electricity bill at urban areas	Implemented
-LL03_HL03	Calculates total load at domestics places	Implemented
+LL03_HL03	Calculates total load at domestics places	   Implemented
 LL04	Calculates total unit consumed at domestics places	Implemented
 
