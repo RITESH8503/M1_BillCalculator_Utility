@@ -14,10 +14,11 @@
 
 //EXISTING HEADER
 
-/*#include <stdio.h>
+#include <stdio.h>
 #include <conio.h>
 #include <string.h>
-*/
+
+
 
 //structure declaration
 struct Bill_Calculator

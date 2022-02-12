@@ -11,7 +11,7 @@
 
 
 #include "billing.h"
-#include<stdio.h>
+//#include<stdio.h>
 
 
 void data()
@@ -33,11 +33,11 @@ void Urban()
 {
     int amount=0;
     B.unit;
-    if(B.unit <=30 && B.unit >= 0)
+    if(B.unit <=50 && B.unit >= 0)
     {
         amount = B.unit * 6.10+50;    // RS 50 fixed charg
     }
-    else if(B.unit >= 31 && B.unit <= 100)
+    else if(B.unit >= 51 && B.unit <= 100)
     {
         amount = B.unit * 6.40+50;   // RS 50 fixed charg
     }
