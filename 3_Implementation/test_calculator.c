@@ -1,4 +1,5 @@
 #include "unity.h"
+
 #include "billing.h"
 
 void test_add(void);
@@ -9,7 +10,7 @@ void setUp(){}
 void tearDown(){}
 
 
-int main()
+int test_main()
 {
   UNITY_BEGIN();
 
