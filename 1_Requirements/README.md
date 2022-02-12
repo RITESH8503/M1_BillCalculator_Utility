@@ -61,9 +61,10 @@ r
 
 Low level Requirements:
 
-ID	Description	Status
-LL01_HL01	Calculates electricity bill at rural areas	Implemented
-LL02_HL02	Calculates electricity bill at urban areas	Implemented
-LL03_HL03	Calculates total load at domestics places	   Implemented
-LL04	Calculates total unit consumed at domestics places	Implemented
+|ID	  |   Description	                                    |  Status      |
+|-----|---------------------------------------------------|--------------|
+|LL01 |  	Calculates electricity bill at rural areas      |  Implemented |
+|LL02 | 	Calculates electricity bill at urban areas	    |  Implemented |
+|LL03 |   Calculates electricity bill at industrial areas	|  Implemented |
+|LL04	|   Calculates electricity bill at subsidesed rate	|  Implemented |
 
