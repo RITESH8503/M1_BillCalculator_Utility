@@ -21,15 +21,14 @@
 
   SWOT analysis:
 
-  1. STRENGTH
-    * Innovative, User-friendly, Simple
-=======
+  
+
   1. STRENGTH * Innovative, User-friendly, Simple
-  2  Weakness: Cost of calculator increases as features added in the calculator increase.,
+  2.  Weakness: Cost of calculator increases as features added in the calculator increase.,
 
-  3  Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+  3. Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
-Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+  4. Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
 4’W and 1’H
 
