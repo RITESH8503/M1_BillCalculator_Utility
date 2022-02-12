@@ -1,0 +1,1 @@
+amount = B.unit * 6.10+50;    // RS 50 fixed charg
