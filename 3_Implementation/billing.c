@@ -11,7 +11,7 @@
 
 
 #include "billing.h"
-//#include<stdio.h>
+
 
 
 void data()
@@ -54,6 +54,7 @@ void Urban()
     printf("In Urban, your electricity bill is: %d\n", amount);
     printf("Units you consumed per month: %d\n", B.unit);
     printf("customer details: %d\n", B.contact);
+    }
  
 }
 
