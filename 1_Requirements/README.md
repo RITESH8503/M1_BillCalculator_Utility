@@ -42,7 +42,8 @@ When: Need for calculation.
 How: Calculates the user input as number of loads and gives the output.
 High Level Requirements:
 
-------------------------------------------------------------------------------------------------| 
+
+r
 | ID	| Description	 |                                                            |  Status     |
 |-----|--------------|----------------------------------------------------------- |-------------|
 | HL01|	Electricity| |bill| calculation at Urban areas if(units<30)	              | Implemented |
