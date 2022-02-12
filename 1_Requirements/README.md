@@ -33,17 +33,17 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 4’W and 1’H
 
-What: Electricity bill calculator**
+|What: Electricity bill calculator**|
 
-Where: School, Science, domestic, industries, Technology,villages
+|Where: School, Science, domestic, industries, Technology,villages,farmers|
 
-When: Need for calculation.
+|When: Need for calculation.|
 
-How: Calculates the user input as number of loads and gives the output.
-High Level Requirements:
+How: Calculates the user input as number of units gives the output.
 
 
-r
+|                       HIGH LEVEL REQUIREMENTS                                                 |
+|                                                                                               |
 | ID	| Description	 |    |                                                       |  Status     |
 |-----|--------------|----|------------------------------------------------------ |-------------|
 | HL01|	Electricity  |bill| calculation at Urban areas if(units<30)	              | Implemented |
